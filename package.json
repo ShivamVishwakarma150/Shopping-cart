@@ -1,0 +1,26 @@
+{
+  "name": "react-live",
+  "version": "1.0.0",
+  "description": "This is a offline course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Shivam",
+    "Vishwakarma"
+  ],
+  "author": "Shivam Vishwakarma",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.3",
+    "react": "^18.2.0",
+    "react-bootstrap-icons": "^1.10.2",
+    "react-dom": "^18.2.0"
+  }
+}
